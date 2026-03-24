@@ -1,0 +1,4 @@
+matplotlib
+numpy
+torchvision
+transformers>=4.48.2,<5.0
